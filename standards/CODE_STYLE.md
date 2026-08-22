@@ -1,5 +1,7 @@
 # CODE STYLE STANDARDS 📏
 
+> Working target, not a certification of current repositories. Apply rules selectively and verify them with the tooling that actually exists in each project.
+
 > **TypeScript strict, functional core, imperative shell.**  
 > Código legible, testeable, mantenible por cualquier ingeniero DARUMA.
 

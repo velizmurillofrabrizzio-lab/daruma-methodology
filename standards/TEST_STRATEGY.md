@@ -1,5 +1,7 @@
 # TEST STRATEGY 🧪
 
+> Planning reference only. Coverage percentages and test layers below are project targets, not measured results for KAMPO repositories.
+
 > **Testing pyramid + contract testing + chaos engineering.**  
 > Tests que dan confianza real, no cobertura teatral.
 

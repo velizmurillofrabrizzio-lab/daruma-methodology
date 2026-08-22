@@ -1,5 +1,7 @@
 # GIT WORKFLOW STANDARDS 🌳
 
+> Working target, not a claim that branch protection, reviews or automated releases are currently configured in every repository.
+
 > **Trunk-based development, conventional commits, semantic release.**  
 > Historial limpio, releases automáticos, colaboración sin fricción.
 
